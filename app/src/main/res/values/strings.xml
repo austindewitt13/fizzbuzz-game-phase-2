@@ -37,6 +37,9 @@
   <string name="correct_header">Correct?</string>
   <string name="correct_description">Correct!</string>
   <string name="incorrect_description">Incorrect!</string>
+  <string name="reset_message">Game reset!</string>
 
+  <string name="time_expired_message">Game Over!</string>
 
+  <string name="clock_format">%1$d:%2$04.1f</string>
 </resources>
